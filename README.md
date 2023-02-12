@@ -65,4 +65,4 @@ Or Register a new user.
 Username: raju@gmail.com
 Password: Test@123
 
-# Or Register a new Driver.
+Or Register a new Driver.
